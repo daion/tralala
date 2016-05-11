@@ -8,7 +8,7 @@ public class HelloWorld { // Anfang
 	
 	public static void main(String[] args) { //main Anfang
 		
-		String hello = "Hallo Welt usw";
+		String hello = "Hallo Welt usw und was sonst noch dazu gehört";
 		
         System.out.println(hello);
 		System.out.println("Tralalalala");
